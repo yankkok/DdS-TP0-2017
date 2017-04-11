@@ -19,3 +19,4 @@ public class Prueba {
 }
 
 // hola chicos!!! 
+//buena tecnica
